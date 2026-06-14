@@ -1,0 +1,2 @@
+MAKANAN,Nasi Goreng,25000.0,Berat
+MINUMAN,Es Teh,5000.0,Es
